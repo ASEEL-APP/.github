@@ -14,11 +14,11 @@
   Aseel (Persian: 'Authentic') is an e-commerce marketplace which was launched in May 2019 by Nasrat Khalid to enable artisans to sell their products abroad. In August 2021 an emergency appeal for aid to Afghanistan was launched through the website.
 </p>
 <p align="center">
-  <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Medusa is released under the MIT license." />
+  <a href="">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="" />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=aseelapp">
-    <img src="https://img.shields.io/twitter/follow/medusajs.svg?label=Follow%20@aseelpp" alt="Follow @medusajs" />
+    <img src="https://img.shields.io/twitter/follow/medusajs.svg?label=Follow%20@aseelpp" alt="Follow @aseelapp" />
   </a>
 </p>
 
