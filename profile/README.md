@@ -24,5 +24,4 @@
 
 ## Useful links
 [Website](https://aseelapp.com) • [Security Hall of Fame](https://security.aseelapp.com) • [Facebook](https://www.facebook.com/ASEELapp) • [Wikipedia](https://en.wikipedia.org/wiki/Aseel_(website))
-<br>
-flag05=b7c04e1a5d85d0b103727f9dfd91a9a0
+
