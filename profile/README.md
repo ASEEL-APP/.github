@@ -11,7 +11,7 @@
   AseelApp
 </h1>
 <p align="center">
-  Aseel (Persian: 'Authentic') is an e-commerce marketplace which was launched in May 2019 by Nasrat Khalid to enable artisans to sell their products abroad. In August 2021 an emergency appeal for aid to Afghanistan was launched through the website.
+  AseelApp is a transparent and seamless aid platform that works to ensure each donated dollar reaches the right hand. It offers global users various options.
 </p>
 <p align="center">
   <a href="">
